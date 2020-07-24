@@ -14,4 +14,4 @@ You can find detailed theme instructions in the Docsy user guide: https://docsy.
 
 This is not an officially supported Google product. This project is currently maintained.
 
-You can update all dependencies `git submodule update --init --recursive`Fri Jul 24 09:38:00 UTC 2020
+You can update all dependencies `git submodule update --init --recursive`Fri Jul 24 10:03:14 UTC 2020
